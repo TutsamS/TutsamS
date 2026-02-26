@@ -29,10 +29,9 @@ Third-year Computer Science student at Arizona State University actively seeking
 
 ### AI & Automation
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenAI GPT](https://img.shields.io/badge/GPT--3.5%20%7C%20GPT--4o-412991?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-5C2D91?style=for-the-badge)
 
 ### Cloud & DevOps
