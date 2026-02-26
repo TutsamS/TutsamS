@@ -16,36 +16,29 @@ Third-year Computer Science student at Arizona State University actively seeking
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST-005571?style=for-the-badge)
 ![Boto3](https://img.shields.io/badge/Boto3-AWS-orange?style=for-the-badge)
 
----
-
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
 ### AI & Automation
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![OpenAI GPT](https://img.shields.io/badge/GPT--3.5%20%7C%20GPT--4o-412991?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-5C2D91?style=for-the-badge)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Environment Variables](https://img.shields.io/badge/Secure%20Config-Environment%20Variables-blue?style=for-the-badge)
-
----
 
 ## Featured Projects
 
@@ -64,14 +57,6 @@ Full-stack React and Node.js/Express.js application integrating live weather dat
 - Phase-specific turbulence modeling (Climb, Cruise, Descent)  
 - AI inference using GPT-4o-mini  
 - Interactive route visualization with structured severity classification  
-
----
-
-## GitHub Stats
-
-![Tutsam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TutsamS&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutsamS&layout=compact&theme=default)
 
 ---
 
