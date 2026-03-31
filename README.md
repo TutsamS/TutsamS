@@ -7,7 +7,7 @@ Third-year Computer Science student at Arizona State University actively seeking
 
 ---
 
-## Tech Stack
+## My Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,5 +64,3 @@ Full-stack React and Node.js/Express.js application integrating live weather dat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tutsamsingh/)
 
 ---
-
-Focused on AI-integrated tooling, backend system design, and scalable cloud infrastructure.
