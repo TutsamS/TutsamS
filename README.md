@@ -1,7 +1,5 @@
 # Tutsam Singh  
-### Software Engineer | Cloud, AI Systems, & Full Stack
-
-I build full-stack applications and AI-powered cloud tooling focused on scalable backend systems, intelligent automation, and production-ready architecture.
+### Software Engineer | Cloud, AI Systems, & Full-Stack
 
 Third-year Computer Science student at Arizona State University actively seeking Software Engineering internship opportunities.
 
