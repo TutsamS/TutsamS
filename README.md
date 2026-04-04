@@ -1,5 +1,5 @@
 # Tutsam Singh  
-### Software Engineer | Cloud & AI Systems
+### Software Engineer | Cloud, AI Systems, $ Full Stack
 
 I build full-stack applications and AI-powered cloud tooling focused on scalable backend systems, intelligent automation, and production-ready architecture.
 
