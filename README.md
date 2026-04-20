@@ -39,10 +39,10 @@ Third-year Computer Science student at Arizona State University actively seeking
 
 ## Featured Projects
 
-### Nimbus — AI-Powered AWS Resource Manager
+### Nimbus — AI-Powered AWS Cloud CLI
 Natural language to autonomous cloud orchestration  
 Built with Python, LangChain, GPT, Boto3, and Docker  
-- ReAct agent integrating 9 AWS tools  
+- ReAct agent integrating AWS tools across S3 and EC2
 - Secure credential management via environment variables  
 - Confirmation safeguards for destructive operations  
 
