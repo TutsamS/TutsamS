@@ -1,7 +1,7 @@
 # Tutsam Singh  
 ### Software Engineer | Cloud, AI Systems, & Full-Stack Development
 
-Third-year Computer Science student studying at Arizona State University actively seeking Software Engineering internship opportunities.
+Third-year Computer Science student studying at Arizona State University and actively seeking Software Engineering internship opportunities.
 
 ---
 
